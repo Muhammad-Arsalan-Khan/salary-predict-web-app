@@ -92,7 +92,7 @@ This app can be deployed for free using:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source
 
 ## 🙋 Author
 
